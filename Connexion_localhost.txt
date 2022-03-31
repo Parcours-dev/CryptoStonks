@@ -1,0 +1,8 @@
+Ouvrir l'IDE en ligne : https://remix.ethereum.org
+
+Ouvrir un terminal et saisir :
+remixd -s /home/debian/Documents/Crypto_dev/ --remix-ide https://remix.ethereum.org
+
+Dans Workspaces, cliquez sur localhost puis connect.
+
+Well done !
